@@ -16,13 +16,13 @@ file_name = 'results_file.csv'
 # In[3]:
 
 
-linkedin_username = 'your_email@gmail.com'
+linkedin_username = 'arijit.douglas.sen@gmail.com'
 
 
 # In[4]:
 
 
-linkedin_password = 'xxxxxxxxxxxxxxx'
+linkedin_password = 'pspgoman9934'
 
 
 # In[ ]:
